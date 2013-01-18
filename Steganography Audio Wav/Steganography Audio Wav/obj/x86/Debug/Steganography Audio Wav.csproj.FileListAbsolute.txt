@@ -1,0 +1,14 @@
+C:\Users\GHOST\documents\visual studio 2010\Projects\Steganography Audio Wav\Steganography Audio Wav\bin\Debug\Steganography Audio Wav.exe
+C:\Users\GHOST\documents\visual studio 2010\Projects\Steganography Audio Wav\Steganography Audio Wav\bin\Debug\Steganography Audio Wav.pdb
+C:\Users\GHOST\documents\visual studio 2010\Projects\Steganography Audio Wav\Steganography Audio Wav\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GHOST\documents\visual studio 2010\Projects\Steganography Audio Wav\Steganography Audio Wav\obj\x86\Debug\Steganography_Audio_Wav.frmStegano.resources
+C:\Users\GHOST\documents\visual studio 2010\Projects\Steganography Audio Wav\Steganography Audio Wav\obj\x86\Debug\Steganography_Audio_Wav.Properties.Resources.resources
+C:\Users\GHOST\documents\visual studio 2010\Projects\Steganography Audio Wav\Steganography Audio Wav\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GHOST\documents\visual studio 2010\Projects\Steganography Audio Wav\Steganography Audio Wav\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GHOST\documents\visual studio 2010\Projects\Steganography Audio Wav\Steganography Audio Wav\obj\x86\Debug\Steganography Audio Wav.exe
+C:\Users\GHOST\documents\visual studio 2010\Projects\Steganography Audio Wav\Steganography Audio Wav\obj\x86\Debug\Steganography Audio Wav.pdb
+C:\Users\GHOST\documents\visual studio 2010\Projects\Steganography Audio Wav\Steganography Audio Wav\bin\Debug\id\Steganography Audio Wav.resources.dll
+C:\Users\GHOST\documents\visual studio 2010\Projects\Steganography Audio Wav\Steganography Audio Wav\obj\x86\Debug\Steganography_Audio_Wav.frmStegano.id.resources
+C:\Users\GHOST\documents\visual studio 2010\Projects\Steganography Audio Wav\Steganography Audio Wav\obj\x86\Debug\id\Steganography Audio Wav.resources.dll
+D:\Documents\Kuliah\Sistem Multimedia\Steganography\Steganography Audio Wav\Steganography Audio Wav\obj\x86\Debug\Steganography Audio Wav.exe
+D:\Documents\Kuliah\Sistem Multimedia\Steganography\Steganography Audio Wav\Steganography Audio Wav\obj\x86\Debug\Steganography Audio Wav.pdb
