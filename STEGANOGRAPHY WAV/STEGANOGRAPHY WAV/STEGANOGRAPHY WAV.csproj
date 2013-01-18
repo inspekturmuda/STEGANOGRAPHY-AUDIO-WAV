@@ -54,7 +54,10 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <Compile Include="WaveStream.cs" />
+=======
+>>>>>>> 30b0faf98ac2145e31d975818246272330088c41
     <Compile Include="WaveUtility.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
