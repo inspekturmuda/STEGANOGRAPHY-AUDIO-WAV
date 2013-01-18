@@ -34,5 +34,17 @@ namespace STEGANOGRAPHY_WAV
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog dlg = new OpenFileDialog();
+            AmbilFile(dlg, txtFileWav, true);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog dlg = new OpenFileDialog();
+            AmbilFile(dlg, txtKunci, false);
+        }
     }
 }
