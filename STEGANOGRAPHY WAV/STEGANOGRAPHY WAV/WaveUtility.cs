@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.IO;
 
-namespace Steganography_Audio_Wav
+namespace STEGANOGRAPHY_WAV
 {
     public class WaveUtility
     {
