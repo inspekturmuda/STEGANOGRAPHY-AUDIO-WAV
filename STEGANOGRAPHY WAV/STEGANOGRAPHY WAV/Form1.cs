@@ -16,35 +16,6 @@ namespace STEGANOGRAPHY_WAV
             InitializeComponent();
         }
 
-        private void browsebutton_Click(object sender, EventArgs e)
-        {
-            OpenFileDialog dlg = new OpenFileDialog();
-            GetFileName(dlg, browsefield, true);
-        }
-        private void GetFileName(FileDialog dialog, TextBox control, bool useFilter)
-        {
-            if (useFilter) { dialog.Filter = "Wave Audio (*.wav)|*.wav"; }
-            if (dialog.ShowDialog(this) == DialogResult.OK)
-            {
-                control.Text = dialog.FileName;
-            }
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            OpenFileDialog dlg = new OpenFileDialog();
-            AmbilFile(dlg, txtFileWav, true);
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            OpenFileDialog dlg = new OpenFileDialog();
-            AmbilFile(dlg, txtKunci, false);
-        }
+        
     }
 }
