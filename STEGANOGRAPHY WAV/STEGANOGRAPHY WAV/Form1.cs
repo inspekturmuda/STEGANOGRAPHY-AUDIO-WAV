@@ -16,6 +16,7 @@ namespace STEGANOGRAPHY_WAV
             InitializeComponent();
         }
 
+<<<<<<< HEAD
         private void browsebutton_Click(object sender, EventArgs e)
         {
             OpenFileDialog dlg = new OpenFileDialog();
@@ -51,5 +52,8 @@ namespace STEGANOGRAPHY_WAV
         {
 
         }
+=======
+        
+>>>>>>> e4fe4452f9ddc227b3109943059df272a28bf8f5
     }
 }
