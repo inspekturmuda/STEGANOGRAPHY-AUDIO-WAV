@@ -46,5 +46,10 @@ namespace STEGANOGRAPHY_WAV
             OpenFileDialog dlg = new OpenFileDialog();
             AmbilFile(dlg, txtKunci, false);
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
